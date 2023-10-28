@@ -1,0 +1,88 @@
+/* main window code */
+/*body{
+    
+}
+
+*/
+
+div{
+    background-color:rgba(69, 40, 183, 0.823);
+    
+    width: inherit;
+    
+    border: transparent;
+    height: 45px;
+     
+}
+
+
+nav a{
+    font-size: 35;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:black;
+    padding-left: 70px;
+    font-size: bold 200;
+    
+
+}
+
+
+nav a:hover{
+    color:rgba(12, 233, 75, 0.664);
+}
+
+
+
+
+.header{
+    width:inherit;
+    height: 150px;
+    border:  3px transparent;
+    background: linear-gradient(to right, #003399 0%, #ff99cc 100%);
+   
+}
+
+.name{
+     font-size: 60;
+     text-align: center;
+     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-weight: 900;
+     padding-top: 35px;
+     
+     
+     
+     
+}
+
+ 
+    
+
+
+
+
+
+/*div{
+    width: 100px;
+    height: 200px;
+    border: 3px  red solid;
+    overflow:visible;
+}
+*/
+
+/*nav a:visited{
+    color: dodgerblue;
+}
+
+no rules of css are applied on !important has highest specificty
+*/
+
+
+
+/* web responsiveness 
+it is not working at all .
+
+
+we can also use flaot property for aligning text and photo and set the posoion of both the things.
+*/
+
